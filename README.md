@@ -6,4 +6,4 @@ This repository contains my JavaScript practice projects from freeCodeCamp as I 
 **Skills so far**
 - HTML
 - CSS
-- -JavaScript
+- JavaScript
